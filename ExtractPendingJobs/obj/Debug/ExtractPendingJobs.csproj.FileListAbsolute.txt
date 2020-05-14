@@ -1,0 +1,23 @@
+c:\users\andrewc\documents\visual studio 2015\Projects\ExtractPendingJobs\ExtractPendingJobs\bin\Debug\ExtractPendingJobs.exe.config
+c:\users\andrewc\documents\visual studio 2015\Projects\ExtractPendingJobs\ExtractPendingJobs\bin\Debug\ExtractPendingJobs.exe
+c:\users\andrewc\documents\visual studio 2015\Projects\ExtractPendingJobs\ExtractPendingJobs\bin\Debug\ExtractPendingJobs.pdb
+c:\users\andrewc\documents\visual studio 2015\Projects\ExtractPendingJobs\ExtractPendingJobs\obj\Debug\ExtractPendingJobs.exe
+c:\users\andrewc\documents\visual studio 2015\Projects\ExtractPendingJobs\ExtractPendingJobs\obj\Debug\ExtractPendingJobs.pdb
+c:\users\andrewc\documents\visual studio 2015\Projects\ExtractPendingJobs\ExtractPendingJobs\obj\Debug\ExtractPendingJobs.csproj.ResolveComReference.cache
+C:\Users\andrewc\Documents\Visual Studio 2015\Projects\ExtractPendingJobs\ExtractPendingJobs\obj\Debug\ExtractPendingJobs.csprojResolveAssemblyReference.cache
+\\BURN-IN_SERVER\Engineering Burn-in\NabeelZ\Projects\ExtractPendingJobs\ExtractPendingJobs\bin\Debug\ExtractPendingJobs.exe.config
+\\BURN-IN_SERVER\Engineering Burn-in\NabeelZ\Projects\ExtractPendingJobs\ExtractPendingJobs\obj\Debug\ExtractPendingJobs.csproj.ResolveComReference.cache
+\\BURN-IN_SERVER\Engineering Burn-in\NabeelZ\Projects\ExtractPendingJobs\ExtractPendingJobs\obj\Debug\ExtractPendingJobs.exe
+\\BURN-IN_SERVER\Engineering Burn-in\NabeelZ\Projects\ExtractPendingJobs\ExtractPendingJobs\obj\Debug\ExtractPendingJobs.pdb
+\\BURN-IN_SERVER\Engineering Burn-in\NabeelZ\Projects\ExtractPendingJobs\ExtractPendingJobs\bin\Debug\ExtractPendingJobs.exe
+\\BURN-IN_SERVER\Engineering Burn-in\NabeelZ\Projects\ExtractPendingJobs\ExtractPendingJobs\bin\Debug\ExtractPendingJobs.pdb
+\\BURN-IN_SERVER\Engineering Burn-in\NabeelZ\Projects\ExtractPendingJobs\ExtractPendingJobs\obj\Debug\ExtractPendingJobs.csprojResolveAssemblyReference.cache
+\\BURN-IN_SERVER\Engineering Burn-in\NabeelZ\Projects\ExtractPendingJobs\ExtractPendingJobs\obj\Debug\ExtractPendingJobs.csproj.CoreCompileInputs.cache
+\\burn-in_server\Engineering Burn-in\ChrisN\Projects\ExtractPendingJobs\ExtractPendingJobs\bin\Debug\ExtractPendingJobs.exe.config
+\\burn-in_server\Engineering Burn-in\ChrisN\Projects\ExtractPendingJobs\ExtractPendingJobs\bin\Debug\ExtractPendingJobs.exe
+\\burn-in_server\Engineering Burn-in\ChrisN\Projects\ExtractPendingJobs\ExtractPendingJobs\bin\Debug\ExtractPendingJobs.pdb
+\\burn-in_server\Engineering Burn-in\ChrisN\Projects\ExtractPendingJobs\ExtractPendingJobs\obj\Debug\ExtractPendingJobs.csprojResolveAssemblyReference.cache
+\\burn-in_server\Engineering Burn-in\ChrisN\Projects\ExtractPendingJobs\ExtractPendingJobs\obj\Debug\ExtractPendingJobs.csproj.ResolveComReference.cache
+\\burn-in_server\Engineering Burn-in\ChrisN\Projects\ExtractPendingJobs\ExtractPendingJobs\obj\Debug\ExtractPendingJobs.csproj.CoreCompileInputs.cache
+\\burn-in_server\Engineering Burn-in\ChrisN\Projects\ExtractPendingJobs\ExtractPendingJobs\obj\Debug\ExtractPendingJobs.exe
+\\burn-in_server\Engineering Burn-in\ChrisN\Projects\ExtractPendingJobs\ExtractPendingJobs\obj\Debug\ExtractPendingJobs.pdb
